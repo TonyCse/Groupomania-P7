@@ -104,13 +104,13 @@ Ouvrir le navigateur a l'adresse http://localhost:8080/
 
 Le site permet de:
 
--Créer un compte avec un pseudo, un email, un mot de passe.
+- Créer un compte avec un pseudo, un email, un mot de passe.
 
--Modifier son compte ( sonpseudo, son email, son mot de passe)
+- Modifier son compte ( son pseudo, son email, son mot de passe)
 
--Partager des posts avec ou sans média (jpeg, jpg, png, gif).
+- Partager des posts avec ou sans média (jpeg, jpg, png, gif).
 
--Supprimer son compte et ses posts.
+- Supprimer son compte et ses posts.
 
 Un compte admin est présent pour la modération ( suppression des posts des autres utilisateurs )
 Voici les codes d'accès admin:
